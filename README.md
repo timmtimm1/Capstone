@@ -1,2 +1,2 @@
-# Capstone
-Google Capstone project about bike shares in the year 2023, in the city of Chicago 
+# Projects
+Various projects i did, from data analysis to machine and deep learning 
